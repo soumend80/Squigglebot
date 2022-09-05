@@ -1,0 +1,1 @@
+### The source codes for collecting the sensor data over Wi-Fi from the micro-controller as well as the images from camera over USB are both written in Python. In order to synchronize the sensor and image data, multirun plugin of the Pycharm IDE is used to start both the codes simultaneously.
