@@ -1,2 +1,1 @@
-This code reads data from MPU6050 IMU and WCS2702 current sensors and sends it to a local telent server.
-  Be sure to update the correct SSID and PASSWORD before running to allow connection to your WiFi network.
+### This code reads data from MPU6050 IMU and WCS2702 current sensors and sends it to a local telent server. Be sure to update the correct SSID and PASSWORD before running to allow connection to your WiFi network.
